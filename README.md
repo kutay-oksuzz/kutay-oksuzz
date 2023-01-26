@@ -17,7 +17,3 @@
 <a href="https://instagram.com/kutay_oksuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kutay_oksuzz" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kutay-oksuzz&show_icons=true&locale=en&layout=compact" alt="kutay-oksuzz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kutay-oksuzz&show_icons=true&locale=en" alt="kutay-oksuzz" /></p>
