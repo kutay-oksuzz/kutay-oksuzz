@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kutay Öksüz</h1>
-<h3 align="center">Data Science Developer</h3>
+<h1 align="center">Hi!, I'm Kutay Öksüz</h1>
+<h3 align="center">Deep Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutay-oksuzz&label=Profile%20views&color=0e75b6&style=flat" alt="kutay-oksuzz" /> </p>
 
