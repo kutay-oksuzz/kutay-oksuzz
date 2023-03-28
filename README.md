@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutay-oksuzz&label=Profile%20views&color=0e75b6&style=flat" alt="kutay-oksuzz" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Backend Developer**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **Python, Deep Learning, Machine Learning**
+- 💬 Ask me about **Python, Deep Learning, Machine Learning, Node JS, MongoDB, JavaScript**
 
 - 📫 How to reach me **kutay_oksuzz@outlook.com**
 
