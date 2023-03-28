@@ -1,9 +1,9 @@
 <h1 align="center">Hi!, I'm Kutay Öksüz</h1>
-<h3 align="center">Deep Learning</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutay-oksuzz&label=Profile%20views&color=0e75b6&style=flat" alt="kutay-oksuzz" /> </p>
 
-- 🔭 I’m currently working on **Backend Developer**
+- 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **Node JS**
 
