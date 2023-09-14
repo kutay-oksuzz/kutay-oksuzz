@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **Python, Deep Learning, Machine Learning, Node JS, MongoDB, JavaScript**
+- 💬 Ask me about **Node JS, MongoDB, JavaScript, React, Express.js, ReactNative**
 
 - 📫 How to reach me **kutay_oksuzz@outlook.com**
 
