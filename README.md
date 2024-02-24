@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutay-oksuzz&label=Profile%20views&color=0e75b6&style=flat" alt="kutay-oksuzz" /> </p>
 
-- 🔭 I’m currently working on **Mobile App**
+- 🔭 I’m currently working on **Mobile App and Web App**
 
-- 🌱 I’m currently learning **Node JS and React Native**
+- 🌱 I’m currently learning **Next.js and React Native**
 
-- 💬 Ask me about **Node JS, MongoDB, JavaScript, React, Express.js, ReactNative, Python**
+- 💬 Ask me about **Node JS, MongoDB, JavaScript, React.js, Express.js, React Native, Next.js**
 
 - 📫 How to reach me **kutay_oksuzz@outlook.com**
 
