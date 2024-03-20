@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and React Native**
 
-- 💬 Ask me about **Node JS, MongoDB, JavaScript, React.js, Express.js, React Native, Next.js**
+- 💬 Ask me about **Node JS, MongoDB, JavaScript, React.js, Express.js, React Native, Next.js, Python, Django**
 
 - 📫 How to reach me **kutay_oksuzz@outlook.com**
 
