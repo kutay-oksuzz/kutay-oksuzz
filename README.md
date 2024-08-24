@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Mobile App and Web App**
 
-- 🌱 I’m currently learning **Next.js and React Native**
+- 🌱 I’m currently learning **React and React Native**
 
-- 💬 Ask me about **Node JS, MongoDB, JavaScript, React.js, Express.js, React Native, Next.js, Python, Django**
+- 💬 Ask me about **Node JS, MongoDB, JavaScript, React.js, Express.js, React Native, Next.js, Python, Django, TypeScript**
 
-- 📫 How to reach me **kutay_oksuzz@outlook.com**
+- 📫 How to reach me **kutayoksuzz06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
