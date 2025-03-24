@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutay-oksuzz&label=Profile%20views&color=0e75b6&style=flat" alt="kutay-oksuzz" /> </p>
 
-- 🔭 I’m currently working on **Cloud**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Python, Elasticsearch**
+- 🌱 I’m currently learning **React, Nodejs**
 
 - 💬 Ask me about **Python, JavaScript**
 
